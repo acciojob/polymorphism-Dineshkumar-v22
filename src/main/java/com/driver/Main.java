@@ -18,10 +18,10 @@ public void main(String [] args)
 {
     Product p = new Product();
     int x,y,z;
-    double f,z;
+    double f,e;
    p.product(x,y);
    p.product(x,y,z);
-   p.product(f,z);
+   p.product(f,e);
 }
 
 }
