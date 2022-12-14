@@ -22,7 +22,7 @@ public void main(String [] args)
   int k= p.product(x,y);
   int j= p.product(x,y,z);
    int q=p.product(f,e);
-   System.out.print(k" "+j+" "+q+" ");
+   System.out.print(k+" "+j+" "+q+" ");
 }
 
 }
