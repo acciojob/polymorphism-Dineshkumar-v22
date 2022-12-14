@@ -21,7 +21,7 @@ public void main(String [] args)
     double f=1.2,e=1.7;
   int k= p.product(x,y);
   int j= p.product(x,y,z);
-   int q=p.product(f,e);
+   double q=p.product(f,e);
    System.out.print(k+" "+j+" "+q+" ");
 }
 
